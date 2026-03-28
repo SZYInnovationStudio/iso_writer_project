@@ -1,3 +1,5 @@
+该项目由ZHANGZHAORUI（beibing173）研发，有问题请发邮件
+到达 zhangzhaorui@szystudio.cn
 ISO写入器项目文件结构
 ========================
 
